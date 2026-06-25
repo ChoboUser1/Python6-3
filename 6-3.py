@@ -1,3 +1,4 @@
+#섭씨 -> 화씨 온도 변환
 def cel2fah(celsius):
     return (9/5) * celsius + 32
 
